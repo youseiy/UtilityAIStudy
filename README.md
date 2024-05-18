@@ -1,1 +1,1 @@
-Study of Utility AI made on Unreal Engine based on Dave Mark's talk: https://www.gdcvault.com/play/1021848/Building-a-Better-Centaur-AI and GameAIPro chapter: https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter09_An_Introduction_to_Utility_Theory.pdf
+Utility AI Study
